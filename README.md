@@ -2,7 +2,9 @@
 
 Android Bangla News App:
 
-APP[alt text](https://github.com/tanjinbd/BanglaNewsApp/blob/main/AndroidApp.jpg?raw=true)
+![alt text](https://github.com/tanjinbd/BanglaNewsApp/blob/main/AndroidApp.jpg?raw=true)
+
+High Res Screen:
 https://github.com/tanjinbd/BanglaNewsApp/blob/main/screen1.jpg
 
 Advanced Bangla (Localized) Application development for Android devices. This app supports Bangla Text Rendering from Android Gingerbread version.
